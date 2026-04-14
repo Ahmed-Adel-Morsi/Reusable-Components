@@ -1,4 +1,0 @@
-https://codesandbox.io/p/sandbox/reusable-bootstrap-table-mh63cj
-https://codesandbox.io/p/sandbox/reusable-star-rating-ydhfg3
-https://codesandbox.io/p/sandbox/reusable-table-q6x8rf
-https://codesandbox.io/p/sandbox/reusable-modal-zzrhhl
